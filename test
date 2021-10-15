@@ -1,0 +1,4 @@
+module test(
+input clk,
+input rst_n,
+ouput clock);
