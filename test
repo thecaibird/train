@@ -2,3 +2,5 @@ module test(
 input clk,
 input rst_n,
 ouput clock);
+12345
+上山打老虎
